@@ -1,0 +1,5 @@
+imagezmq==1.1.1
+imutils==0.5.4
+numpy==1.21.1
+opencv-contrib-python==4.1.0.25
+pyzmq==22.1.0
